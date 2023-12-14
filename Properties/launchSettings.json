@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "1:ScenarioPlanet 1-512-1-0": {
+      "commandName": "Project",
+      "commandLineArgs": "ScenarioPlanet 1 1 512 1 0"
+    },
+    "1:Herobrine 0-32-1-1": {
+      "commandName": "Project",
+      "commandLineArgs": "Herobrine 1 0 32 1 1"
+    },
+    "2:MHF_Cat 0-512-0-0": {
+      "commandName": "Project",
+      "commandLineArgs": "e66a78edf1a221dd52d0ea6a8ea1d09643a1aed9d6701e443cbfdfd8c4b0806d 2 0 512 0 0"
+    },
+    "0:SenatorApple 0-25.6-0-1": {
+      "commandName": "Project",
+      "commandLineArgs": "1c3ccfcc-6c0b-4c06-8763-8cd2487f3e26 0 0 25.6 0 1"
+    },
+    "0:meow 1-128-1-1": {
+      "commandName": "Project",
+      "commandLineArgs": "6fddc3debeac42ec9f705a212bcc0267 0 1 128 1 1"
+    }
+  }
+}

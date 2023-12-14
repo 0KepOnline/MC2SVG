@@ -1,0 +1,4 @@
+bin/
+obj/
+.vs/
+MC2SVG.csproj.user

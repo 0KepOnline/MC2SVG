@@ -5,7 +5,7 @@ MC2SVG is a fan-made website that provides a simple API endpoint for converting 
 Uses [Big Gustave](https://github.com/EliotJones/BigGustave) to read PNGs & [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) to parse Minecraft API responses.
 
 ## Example SVGs
-| ![ScenarioPlanet](https://scenariopla.net/mc2svg/get?nickname=ScenarioPlanet&size=128) | ![Luigifan100](https://scenariopla.net/mc2svg/get?nickname=Luigifan100&size=128) | ![SenatorApple](https://scenariopla.net/mc2svg/get?nickname=SenatorApple&size=128) | ![SlimeDiamond](https://scenariopla.net/mc2svg/get?nickname=SlimeDiamond&size=128) | ![laootr_](https://scenariopla.net/mc2svg/get?nickname=eleanorthesow&size=128) | ![stromhurst](https://scenariopla.net/mc2svg/get?nickname=stromhurst&size=128) |
+| ![ScenarioPlanet](https://scenariopla.net/mc2svg/get?nickname=ScenarioPlanet&size=128) | ![Luigifan100](https://scenariopla.net/mc2svg/get?nickname=Luigifan100&size=128) | ![SenatorApple](https://scenariopla.net/mc2svg/get?nickname=SenatorApple&size=128) | ![SlimeDiamond](https://scenariopla.net/mc2svg/get?nickname=SlimeDiamond&size=128) | ![eleanorsilly](https://scenariopla.net/mc2svg/get?nickname=eleanorsilly&size=128) | ![stromhurst](https://scenariopla.net/mc2svg/get?nickname=stromhurst&size=128) |
 |-|-|-|-|-|-|
 
 ## Usage
